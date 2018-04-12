@@ -180,7 +180,7 @@ There are a number of options for create():
 
   .. code-block:: html
 
-     <form method="post" action="/recipes/add">
+     <form method="post" action="/recipes/add" id="RecipesAdd">
 
   or can point to an external domain::
 
